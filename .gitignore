@@ -1,0 +1,5 @@
+secrets.json
+app.log
+
+#for all log extenstion file
+*.log
